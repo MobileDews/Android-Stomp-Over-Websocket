@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Stomp-Over-Websocket.iml" filepath="$PROJECT_DIR$/Android-Stomp-Over-Websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/StompOverWebsocketAndroid.iml" filepath="$PROJECT_DIR$/StompOverWebsocketAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stomplibrary/stomplibrary.iml" filepath="$PROJECT_DIR$/stomplibrary/stomplibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/stomplibrary/stomplibrary.iml" filepath="$PROJECT_DIR$/stomplibrary/stomplibrary.iml" />
     </modules>
   </component>
